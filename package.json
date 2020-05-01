@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-test2",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "gridsome": "^0.7.0"
+  }
+}
